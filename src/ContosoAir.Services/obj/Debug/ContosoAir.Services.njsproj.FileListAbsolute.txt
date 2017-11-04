@@ -1,0 +1,5 @@
+D:\Projects\Microsoft\contosoair\appcode\contosoair\src\ContosoAir.Services\obj\Debug\ContosoAir.Services.njsprojResolveAssemblyReference.cache
+D:\Projects\Microsoft\contosoair\appcode\contosoair\src\ContosoAir.Services\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Pranay\Microsoft\Microsoft_Tara\Aniket\src\Backup_contosoair\src\ContosoAir.Services\obj\Debug\ContosoAir.Services.njsprojResolveAssemblyReference.cache
+D:\Pranay\Microsoft\Microsoft_Tara\Aniket\src\Backup_contosoair\src\ContosoAir.Services\obj\Debug\ContosoAir.Services.njsproj.CoreCompileInputs.cache
+D:\Pranay\Microsoft\Microsoft_Tara\Aniket\src\Backup_contosoair\src\ContosoAir.Services\bin\Microsoft.NodejsTools.WebRole.dll
